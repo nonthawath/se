@@ -1,0 +1,9 @@
+npm init
+npm i --s express@4.16.4 mongoose@5.3.4 express-handlebars@3.0
+
+npm i nodemon
+nodemon server.js
+
+load >> mongodb comass comunity
+cd C:\ ....
+mongod.exe --dbpath C:\ ....
